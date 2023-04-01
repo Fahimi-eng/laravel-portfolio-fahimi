@@ -1,0 +1,1 @@
+@extends('Client.Layouts.master')
